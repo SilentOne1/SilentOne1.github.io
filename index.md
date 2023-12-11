@@ -4,7 +4,7 @@ This is my home page! My name is Andrew Jun and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/SilentOne1/SilentOne1.github.io.
+My GitHub page is https://github.com/SilentOne1.
 
 ### CPSC 120
 
